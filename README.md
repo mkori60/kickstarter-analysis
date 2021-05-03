@@ -12,7 +12,7 @@ I began by analyzing the mean, median, standard deviation, and boxplot values fo
 I then analyzed the number of failed, live, successful and canceled campaigns for each campaign type. <img width="575" alt="Screen Shot 2021-05-03 at 1 06 46 PM" src="https://user-images.githubusercontent.com/83051034/116920900-74904c00-ac10-11eb-8966-2e627366f217.png">
 Next, I completed the same analysis using subcategories. <img width="604" alt="Screen Shot 2021-05-03 at 1 07 40 PM" src="https://user-images.githubusercontent.com/83051034/116921008-9db0dc80-ac10-11eb-9d99-1a3ff76ecc97.png">
 
-### Analysis of Outcomes Based on Goals 
+### Analysis of Outcomes Based on Launch Date
 I then began focusing specifically on the theater category by analyzing the outcome based on launch date. <img width="408" alt="Screen Shot 2021-05-03 at 1 12 17 PM" src="https://user-images.githubusercontent.com/83051034/116921424-347d9900-ac11-11eb-986c-71a3ee6f0e20.png">
 
 ### Analysis of Outcomes Based on Goals 
